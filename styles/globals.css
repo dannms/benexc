@@ -1,5 +1,5 @@
-@import url(c:\Users\danie\Desktop\benexc-next\app\styles\reset.css);
-@import url(c:\Users\danie\Desktop\benexc-next\app\styles\bulma.css);
+@import url('../styles/reset.css');
+@import url('../styles/bulma.css');
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;800&display=swap");
 html {
   scroll-behavior: smooth;
